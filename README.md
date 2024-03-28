@@ -23,6 +23,7 @@ Progress through levels by successfully sticking all knives without collisions.
 <img width="129" alt="Screenshot_4" src="https://github.com/melisboyaci/KnifeHitReplica/assets/139956767/9f9c7107-4b8e-460c-bb7b-1d7a4ffa77dc">
 <img width="131" alt="Screenshot_1" src="https://github.com/melisboyaci/KnifeHitReplica/assets/139956767/10eea1c7-983b-4149-bce5-3937dd17fd83">
 
+Video: https://youtu.be/R505E04RWCE
 
 
 ## Credits
