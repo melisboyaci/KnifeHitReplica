@@ -1,7 +1,5 @@
 # KnifeHitReplica
 
-## Overview
-
 This project is a replica of the popular mobile game "Knife Hit". It is developed using Unity game engine and C# programming language.
 
 ## Features
