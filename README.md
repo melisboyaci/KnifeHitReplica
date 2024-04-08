@@ -28,5 +28,4 @@ Video: https://youtu.be/R505E04RWCE
 
 Original game concept: Ketchapp
 
-**I will add the codes as soon as possible!**
 
